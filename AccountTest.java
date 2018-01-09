@@ -1,4 +1,3 @@
-package constructors_challange;
 
 import java.util.Scanner;
 

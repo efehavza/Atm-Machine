@@ -1,4 +1,3 @@
-package constructors_challange;
 
 public class Account {
     public enum Type {
