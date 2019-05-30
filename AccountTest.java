@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class AccountTest {
     public static void main(String[] args) throws Exception{
         Account jane = new Account("Jane","Appleseed", 00000001l, "jane.appleseed@apple.com");
-        jane.setBalance(Account.Type.DEPOSIT,200); // set the fucking balance
+        jane.setBalance(Account.Type.DEPOSIT,200);
         Account.Type t = Account.Type.UNKNOWN;
         String decision;
         String select;
